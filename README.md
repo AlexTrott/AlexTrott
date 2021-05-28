@@ -1,4 +1,6 @@
-👋 Hi, I’m Alex
+
+
+##  Hi, I’m Alex <img src="https://raw.githubusercontent.com/alextrott/alextrott/master/wave.gif" width="18px">
 
 👨‍💻 Currently working @ [CapitalOne](https://github.com/capitalone) as an iOS Engineer
 
